@@ -184,21 +184,21 @@ public class Pokerito {
                     "  |o o o|\n" +
                     "  |___10|\n";
             case 11:
-            return   "  _____\n" +
+            return  "   _____\n" +
                     "  |J  ww|\n"+ 
                     "  | o {)|\n"+ 
                     "  |o o% |\n"+ 
                     "  | | % |\n"+ 
                     "  |__%%[|\n";
             case 12:
-            return   "  _____\n" +
+            return  "   _____\n" +
                     "  |Q  ww|\n"+ 
                     "  | o {(|\n"+ 
                     "  |o o%%|\n"+ 
                     "  | |%%%|\n"+ 
                     "  |_%%%O|\n";
             case 13:
-            return   "  _____\n" +
+            return  "   _____\n" +
                     "  |K  WW|\n"+ 
                     "  | o {)|\n"+ 
                     "  |o o%%|\n"+ 
